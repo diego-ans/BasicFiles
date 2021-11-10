@@ -1,1 +1,1 @@
-print("ola")
+print("Pues aqui aprendiendo git para no usar memoria usb XD")
