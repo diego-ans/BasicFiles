@@ -1,0 +1,58 @@
+<?php
+/*
+Autor: Diego varela colin
+Grupo: 4PAM
+Fecha: 17/02/2022
+Contacto: diegovarela,2005@gmail.com
+Descripcion: El programa trata de usar todos los operadores aritmeticos
+*/
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//Suma
+$T=$N1+$N2;
+echo"Suma=$T<br>";
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//Resta
+$T=$N1-$N2;
+echo"Resta=$T<br>";
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//Multiplicación
+$T=$N1*$N2;
+echo"Multiplicación=$T<br>";
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//División
+$T=$N1/$N2;
+echo"División=$T<br>";
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//Módulo
+$T=$N1%$N2;
+echo"Módulo=$T<br>";
+
+$N1=10;
+$N2=5;
+$T=0;
+
+//Potencia
+$T=$N1**$N2;
+echo"Potencia=$T<br>";
+
+?>
