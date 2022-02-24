@@ -1,0 +1,20 @@
+<?php
+
+$valora = 5;
+$valorb = 8;
+$valorc = 6;
+
+
+$variablea = 4*5+3-6;
+$variableb = 8**5+4/2;
+$variablec = 16/2*6+80;
+$variabled = 45-5*8/6+13;
+
+$r1 = $variablea >= $variableb;
+$r2 = $variablec <> $variabled; 
+$r3 = $r1 && $r2;
+
+echo  "resultado es: ", $r3;
+
+
+?>
